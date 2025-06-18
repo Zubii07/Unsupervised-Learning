@@ -80,7 +80,7 @@ In this project, I used **K-Means**, a popular unsupervised machine learning alg
 ## 📎 Outputs
 
 - Clustered customers into meaningful groups (e.g., high-spenders, one-time buyers)
-- Visual 2D & 3D plots of clusters
+- Visual 2D plot of clusters
 - Ready-to-use pipeline for future unsupervised ML projects
 
 ---
