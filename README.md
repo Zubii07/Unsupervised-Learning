@@ -1,4 +1,4 @@
-# 🧠 Unsupervised Learning – K-Means Clustering Project
+# 🧠 K-Means Clustering Project
 
 In this project, I studied and applied the **K-Means Clustering** algorithm to a real-world retail dataset to segment customers based on their purchasing behavior.
 
